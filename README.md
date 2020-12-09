@@ -12,8 +12,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dms98Br&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Dms98Br)](https://github.com/anuraghazra/github-readme-stats)
-
 # :atom:  My Skills
 - 💻 Testes funcionais | JavaScript | HTML | CSS;
 - 🌐 ReactJs | React Native;
