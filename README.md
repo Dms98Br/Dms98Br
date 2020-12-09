@@ -6,7 +6,7 @@
 - 👯 Sempre em busca de algo novo; 
 - 💬 Pergunte-me sobre o que quiser;
 
-#:atom:  My Skills
+# :atom:  My Skills
 - 💻 Testes funcionais | JavaScript | HTML | CSS;
 - 🌐 ReactJs | React Native;
 - 📜 MySQL | MongoDB | NodeJS | C# | API;
