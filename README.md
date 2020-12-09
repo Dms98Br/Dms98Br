@@ -5,7 +5,7 @@
 - 🎓 Sou estudante de Sistema de Informação na UNIVEM;
 - 👯 Sempre em busca de algo novo; 
 - 💬 Pergunte-me sobre o que quiser;
-:react: :reactjs:
+
 #:atom:  My Skills
 - 💻 Testes funcionais | JavaScript | HTML | CSS;
 - 🌐 ReactJs | React Native;
