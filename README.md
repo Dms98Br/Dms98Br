@@ -6,6 +6,10 @@
 - 👯 Sempre em busca de algo novo; 
 - 💬 Pergunte-me sobre o que quiser;
 
+# My Repos
+
+[![Dms98Br github stats](https://github-readme-stats.vercel.app/api?username=Dms98Br)](https://github.com/anuraghazra/github-readme-stats)
+
 # :atom:  My Skills
 - 💻 Testes funcionais | JavaScript | HTML | CSS;
 - 🌐 ReactJs | React Native;
