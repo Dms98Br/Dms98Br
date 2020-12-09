@@ -6,6 +6,13 @@
 - 👯 Sempre em busca de algo novo; 
 - 💬 Pergunte-me sobre o que quiser;
 
+#:atom:  My Skills
+- 💻 Testes funcionais | JavaScript | HTML | CSS;
+- 🌐 ReactJs | React Native;
+- 📜 MySQL | MongoDB | NodeJS | C# | API;
+- 🎨 AdobeXD | Figma;
+🔧   Scrum | Github | Bitbucket;
+
 # 📫 Contact me
 - 📨 E-mail: danimoyasilva.dev@gmail.com;
 - 💼 [LinkedIn](https://www.linkedin.com/in/daniel-moya-da-silva-dev/);
@@ -13,5 +20,5 @@
 # 🌐 My Site
 - 💻 Em desenvolvimento
 
-# ⚡ Curiosidade
+# ⚡ Curiosity
 - Nas horas livres gosto de jogar ou ler algum livro;
