@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi there👋! My name is Daniel
 
-<!--
-**Dms98Br/Dms98Br** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Atualmente trabalho com estágiario na Marcon Indústria Metalúrgica;
+- 🎓 Estou estudando JavaScript e seus frameworks com foco no ReactJS e no React-Native;
+- 🎓 Sou estudante de Sistema de Informação na UNIVEM;
+- 👯 Sempre em busca de algo novo; 
+- 💬 Pergunte-me sobre o que quiser;
 
-Here are some ideas to get you started:
+# 📫 Contact me
+- 📨 E-mail: danimoyasilva.dev@gmail.com;
+- 💼 [LinkedIn](https://www.linkedin.com/in/daniel-moya-da-silva-dev/);
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# ⚡ Curiosidade
+- Nas horas livres gosto de jogar ou ler algum livro;
