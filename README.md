@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![texto alternativo](http://i.imgur.com/tXSoThF.png)](http://www.twitter.com/meunome "texto título")
+
 <!--
 **Dms98Br/Dms98Br** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
