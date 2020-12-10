@@ -21,7 +21,9 @@
 
 # 📫 Contact me
 - 📨 E-mail: danimoyasilva.dev@gmail.com;
-- 💼 [LinkedIn](https://www.linkedin.com/in/daniel-moya-da-silva-dev/);
+
+# Social media
+- 💼 [<img width="45" src= "https://cdn.iconscout.com/icon/free/png-256/linkedin-42-151143.png">](https://www.linkedin.com/in/daniel-moya-da-silva-dev/);
 
 # 🌐 My Site
 - 💻 Em desenvolvimento
