@@ -6,7 +6,9 @@
 - 👯 Sempre em busca de algo novo; 
 - 💬 Pergunte-me sobre o que quiser;
 
-# My Repos
+# GitHub Statistics
+![](https://visitor-badge.laobi.icu/badge?page_id=Dms98Br)&nbsp;&nbsp;&nbsp;
+ [![Github](https://img.shields.io/github/followers/Dms98Br?label=Follow&style=social)](https://github.com/rootdevna)
 
 [![Dms98Br github stats](https://github-readme-stats.vercel.app/api?username=Dms98Br&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
