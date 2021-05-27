@@ -1,6 +1,6 @@
 # Hi there👋! My name is Daniel
 
-- 🔭 Atualmente trabalho com estágiario na Marcon Indústria Metalúrgica;
+- 🔭 Atualmente trabalho desenvolvimento na movingpay;
 - 🎓 Estou estudando JavaScript e seus frameworks com foco no ReactJS e no React-Native;
 - 🎓 Sou estudante de Sistema de Informação na UNIVEM;
 - 👯 Sempre em busca de algo novo; 
