@@ -34,6 +34,15 @@
 - 📨 E-mail: danimoyasilva.dev@gmail.com;
 
 # Social media
+<div> 
+  <a href="https://www.instagram.com/dms_br98" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:danimoyasilva.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/daniel-moya-da-silva-dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/devemdobro/devemdobro/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
 [<img width="45" src= "https://cdn.iconscout.com/icon/free/png-256/linkedin-42-151143.png">](https://www.linkedin.com/in/daniel-moya-da-silva-dev/)
  [<img width="50" src="https://camo.githubusercontent.com/9ac4a1f7f5ea0f573451b5ddc06e29c8aa113a85/68747470733a2f2f692e696d6775722e636f6d2f6948326a6468562e706e67" />](https://www.instagram.com/dms_br98)
 
