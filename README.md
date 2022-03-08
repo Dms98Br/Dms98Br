@@ -41,11 +41,5 @@
 
 </div>
 
-[<img width="45" src= "https://cdn.iconscout.com/icon/free/png-256/linkedin-42-151143.png">](https://www.linkedin.com/in/daniel-moya-da-silva-dev/)
- [<img width="50" src="https://camo.githubusercontent.com/9ac4a1f7f5ea0f573451b5ddc06e29c8aa113a85/68747470733a2f2f692e696d6775722e636f6d2f6948326a6468562e706e67" />](https://www.instagram.com/dms_br98)
-
 # 🌐 My Site
 - 💻 https://moyasilva.vercel.app/
-
-# ⚡ Curiosity
-- Nas horas livres gosto de jogar ou ler algum livro;
