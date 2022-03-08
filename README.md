@@ -1,10 +1,7 @@
-# Hi there👋! My name is Daniel
+# Welcome to profile the Daniel !
 
 - 🔭 Atualmente trabalho desenvolvimento na movingpay;
-- 🎓 Estou estudando JavaScript e seus frameworks com foco no ReactJS e no React-Native;
-- 🎓 Sou estudante de Sistema de Informação na UNIVEM;
-- 👯 Sempre em busca de algo novo; 
-- 💬 Pergunte-me sobre o que quiser;
+- 🎓 Formado em Sistema de Informação pela UNIVEM;
 
 # GitHub Statistics
 ![](https://visitor-badge.laobi.icu/badge?page_id=Dms98Br.Dms98Br)&nbsp;&nbsp;&nbsp;
@@ -15,6 +12,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dms98Br&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 # My Skills
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 - 💻 Testes funcionais | JavaScript | HTML | CSS;
 - 📜 MySQL | MongoDB | API;
 - 🎨 AdobeXD | Figma;
