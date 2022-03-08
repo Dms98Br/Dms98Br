@@ -1,8 +1,5 @@
 # Welcome to profile the Daniel !
 
-- 🔭 Atualmente trabalho desenvolvimento na movingpay;
-- 🎓 Formado em Sistema de Informação pela UNIVEM;
-
 # GitHub Statistics
 ![](https://visitor-badge.laobi.icu/badge?page_id=Dms98Br.Dms98Br)&nbsp;&nbsp;&nbsp;
  [![Github](https://img.shields.io/github/followers/Dms98Br?label=Follow&style=social)](https://github.com/Dms98Br)
