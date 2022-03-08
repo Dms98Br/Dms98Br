@@ -3,10 +3,11 @@
 ## GitHub Statistics
 ![](https://visitor-badge.laobi.icu/badge?page_id=Dms98Br.Dms98Br)&nbsp;&nbsp;&nbsp;
  [![Github](https://img.shields.io/github/followers/Dms98Br?label=Follow&style=social)](https://github.com/Dms98Br)
-
+<div style="display: inline_block">
 [![Dms98Br github stats](https://github-readme-stats.vercel.app/api?username=Dms98Br&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dms98Br&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 ## Languages
 <div style="display: inline_block">
