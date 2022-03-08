@@ -12,7 +12,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dms98Br&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 # My Skills
-<div style="display: inline:block"><br>
+<div style="display: inline:block">
  <img align="center" alt="figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
  </div
 - 💻 Testes funcionais | JavaScript | HTML | CSS;
