@@ -12,7 +12,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dms98Br&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 # My Skills
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+<img height="180em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 - 💻 Testes funcionais | JavaScript | HTML | CSS;
 - 📜 MySQL | MongoDB | API;
 - 🎨 AdobeXD | Figma;
