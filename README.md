@@ -10,8 +10,8 @@
 [![Dms98Br github stats](https://github-readme-stats.vercel.app/api?username=Dms98Br&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dms98Br&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-
-# Languages
+<div style="display: inline_block">
+ # Languages
  <img align="center" alt="html5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
  <img align="center" alt="css3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
  <img align="center" alt="js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -30,7 +30,7 @@
  <img align="center" alt="git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
  <img align="center" alt="figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
  <img align="center" alt="unity" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
- 
+</div> 
  <hr/>
 # 📫 Contact me
 - 📨 E-mail: danimoyasilva.dev@gmail.com;
