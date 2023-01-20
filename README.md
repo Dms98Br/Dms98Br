@@ -4,9 +4,12 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=Dms98Br.Dms98Br)&nbsp;&nbsp;&nbsp;
  [![Github](https://img.shields.io/github/followers/Dms98Br?label=Follow&style=social)](https://github.com/Dms98Br)
 
-[![Dms98Br github stats](https://github-readme-stats.vercel.app/api?username=Dms98Br&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)   [![GitHub Streak](https://streak-stats.demolab.com?user=Dms98Br&theme=merko&locale=pt_BR)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dms98Br&layout=compact&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+<div align = "center">
+  <a href="https://github.com/DmsBr98">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Dms98Br&show_icons=true&theme=merko&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dms98Br&layout=compact&langs_count=168&theme=dark"/>
+</div>
 
 ## Languages
 <div style="display: inline_block">
