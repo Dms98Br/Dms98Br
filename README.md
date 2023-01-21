@@ -8,7 +8,9 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Dms98Br&theme=merko&locale=pt_BR)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Dms98Br&user=Dms98Br&layout=compact&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Dms98Br&user=Dms98Br&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Languages
 <div style="display: inline_block">
