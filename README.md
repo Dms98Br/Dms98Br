@@ -4,8 +4,6 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=Dms98Br.Dms98Br)&nbsp;&nbsp;&nbsp;
 [![Github](https://img.shields.io/github/followers/Dms98Br?label=Follow&style=social)](https://github.com/Dms98Br)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Dms98Br github stats](https://github-readme-stats.vercel.app/api?username=Dms98Br&theme=merko)](https://github.com/anuraghazra/github-readme-stats) 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Dms98Br&theme=merko&locale=pt_BR)](https://git.io/streak-stats)
