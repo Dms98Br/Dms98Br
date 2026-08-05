@@ -1,48 +1,70 @@
-# Welcome to profile the Daniel !
+<h1 align="center">Olá, eu sou o Daniel 👋</h1>
 
-## GitHub Statistics
-![](https://visitor-badge.laobi.icu/badge?page_id=Dms98Br.Dms98Br)&nbsp;&nbsp;&nbsp;
-[![Github](https://img.shields.io/github/followers/Dms98Br?label=Follow&style=social)](https://github.com/Dms98Br)
+<p align="center">
+Full Stack Developer focado em <b>Next.js, TypeScript & React</b> — construindo interfaces sólidas e produtos que escalam.
+</p>
 
-[![Dms98Br github stats](https://github-readme-stats.vercel.app/api?username=Dms98Br&theme=merko)](https://github.com/anuraghazra/github-readme-stats) 
+<p align="center">
+  <a href="https://danielmoyasilva.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/dms98" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:danimoyasilva.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Dms98Br&theme=merko&locale=pt_BR)](https://git.io/streak-stats)
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Dms98Br&user=Dms98Br&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+### 🙋 Sobre mim
 
-## Languages
-<div style="display: inline_block">
-<img align="center" alt="adonisjs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
-<img align="center" alt="css3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img align="center" alt="dart" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
-<img align="center" alt="figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-<img align="center" alt="firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
-<img align="center" alt="flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
-<img align="center" alt="git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="center" alt="github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="center" alt="html5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img align="center" alt="javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img align="center" alt="mongodb" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-<img align="center" alt="mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img align="center" alt="nestjs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" />
-<img align="center" alt="nextjs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-<img align="center" alt="nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="center" alt="prisma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" />
-<img align="center" alt="python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img align="center" alt="react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="center" alt="tailwindcss" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
-<img align="center" alt="tauri" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tauri/tauri-original.svg" />
-<img align="center" alt="typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-<img align="center" alt="unity" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
-<img align="center" alt="vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+Tenho +3 anos de experiência em desenvolvimento full stack, passando por empresas de pagamentos e soluções corporativas. Hoje construo interfaces e integrações para clientes corporativos, com uma stack principal em **React, Next.js e TypeScript**. Curto código limpo, versionamento sério e times ágeis. Sou criador do **PairMoney**, meu projeto pessoal de fintech, onde coloco em prática arquitetura moderna e boas práticas de UX.
+
+MBA em Engenharia de Software pela FIAP • Inglês intermediário, em evolução constante.
+
+---
+
+### 🚀 Projeto em destaque: PairMoney
+
+Ferramenta pessoal de finanças construída para explorar arquitetura moderna de front-end em um domínio real de fintech.
+
+- 🔗 **Stack:** Next.js 14, TypeScript, Tailwind CSS, Shadcn/ui, Firebase
+- 💡 Foco em UX limpa, componentização e boas práticas de arquitetura
+- 📎 *(adicione aqui o link do repositório ou do app quando publicar)*
+
+---
+
+### 🛠️ Stack atual
+
+<div align="left">
+<img align="center" alt="typescript" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+<img align="center" alt="react" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="center" alt="nextjs" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+<img align="center" alt="tailwindcss" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
+<img align="center" alt="nodejs" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="center" alt="firebase" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
+<img align="center" alt="git" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="center" alt="github" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="center" alt="csharp" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 </div>
 
-## Social media
-<div> 
-  <a href="https://www.instagram.com/dms_br98" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:danimoyasilva.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/daniel-moya-da-silva-dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<sub>C# e SQL Server: exposição ocasional em integrações de back-end.</sub>
 
- ![Snake animation](https://github.com/Dms98Br/Dms98Br/blob/output/github-contribution-grid-snake.svg) 
-</div>
+---
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dms98Br&theme=merko&show_icons=true&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dms98Br&layout=compact&theme=merko&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Dms98Br&theme=merko&locale=pt_BR&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github.com/Dms98Br/Dms98Br/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+<p align="center">
+  <sub>Aberto a novas oportunidades — vamos conversar? 🚀</sub>
+</p>
