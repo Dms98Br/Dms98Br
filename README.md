@@ -26,7 +26,7 @@ Ferramenta pessoal de finanças construída para explorar arquitetura moderna de
 
 - 🔗 **Stack:** Next.js 14, TypeScript, Tailwind CSS, Shadcn/ui, Firebase
 - 💡 Foco em UX limpa, componentização e boas práticas de arquitetura
-- 📎 *(adicione aqui o link do repositório ou do app quando publicar)*
+- 📎 [*PairMoney*](https://pairmoney.com.br/)
 
 ---
 
