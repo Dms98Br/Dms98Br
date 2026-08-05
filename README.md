@@ -32,29 +32,35 @@ Ferramenta pessoal de finanças construída para explorar arquitetura moderna de
 
 ### 🛠️ Stack atual
 
+**Principal (uso no dia a dia):**
+
 <div align="left">
 <img align="center" alt="typescript" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 <img align="center" alt="react" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="center" alt="nextjs" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
 <img align="center" alt="tailwindcss" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
 <img align="center" alt="nodejs" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="center" alt="dart" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
+<img align="center" alt="flutter" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
 <img align="center" alt="firebase" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
+<img align="center" alt="supabase" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" />
 <img align="center" alt="git" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="center" alt="github" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="center" alt="csharp" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 </div>
 
-<sub>C# e SQL Server: exposição ocasional em integrações de back-end.</sub>
+**Também no radar:**
+
+<div align="left">
+<img align="center" alt="csharp" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+<img align="center" alt="mysql" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img align="center" alt="figma" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+</div>
+
+<sub>C# e SQL Server: exposição ocasional em integrações de back-end. Dart/Flutter: experiência via projetos e certificações.</sub>
 
 ---
 
 ### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dms98Br&theme=merko&show_icons=true&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dms98Br&layout=compact&theme=merko&hide_border=true" height="165" />
-</p>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Dms98Br&theme=merko&locale=pt_BR&hide_border=true" />
 </p>
